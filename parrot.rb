@@ -1,5 +1,4 @@
-def parrot_method() sound ="squawk")
-phrase = "bird noise" 
+def parrot_method("argument of a string", ="squawk") 
 return phrase
 puts phrase
 end
