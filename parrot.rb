@@ -1,4 +1,5 @@
 def parrot_method("argument of a string", ="squawk") 
-return phrase
-puts phrase
+  puts "argument of a string"
+return "argument of a string"
+
 end
